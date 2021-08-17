@@ -7,9 +7,9 @@
 //
 // PINS
 //
-#define TRIG_PIN       A0
-#define ECHO_PIN      A1
-#define SERVO_PIN       10
+#define TRIG_PIN       7
+#define ECHO_PIN       6
+#define SERVO_PIN      10
 
 //
 // CONSTANTS
